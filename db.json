@@ -1,0 +1,68 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "",
+      "author": ""
+    },
+    {
+      "email": "ken@gmail.com",
+      "id": 2
+    },
+    {
+      "email": "titus@gmai.com",
+      "id": 3
+    },
+    {
+      "email": "ken@gmail.com",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Beckam",
+      "content": "Experience the future of customer interaction with Proxima's advanced virtual agents. Learn how Proxima leverages modern practices to improve interactions, simplify communication, and provide seamless experiences for both brands and customers.",
+      "author": "Angel",
+      "date": "2023-11-16"
+    },
+    {
+      "id": "2",
+      "title": "Kellen",
+      "content": "Discover how ProximaAI simplifies customer engagement. Explore the innovative techniques used by Proxima to streamline interactions, enhance communication, and create a more connected experience between brands and their customers.",
+      "author": "Angel",
+      "date": "2023-11-16"
+    },
+    {
+      "id": "3",
+      "title": "Faith",
+      "content": "Proxima focuses on enhancing brand-customer relationships through its cutting-edge technology. Learn how Proxima's solutions break down communication barriers, automate processes, and create more connected and responsive relationships.",
+      "author": "Angel",
+      "date": "2023-11-16"
+    },
+    {
+      "id": "4",
+      "title": "Kennedy",
+      "content": "Anticipate customer behavior and stay ahead of the curve with ProximaAI's predictive analytics. Discover how Proxima's analytics tools help businesses adjust strategies, ensure responsive interactions, and provide a seamless experience for customers.",
+      "author": "Angel",
+      "date": "2023-11-16"
+    },
+    {
+      "id": "5",
+      "title": "Titus",
+      "content": "Anticipate customer behavior and stay ahead of the curve with ProximaAI's predictive analytics. Discover how Proxima's analytics tools help businesses adjust strategies, ensure responsive interactions, and provide a seamless experience for customers.",
+      "author": "Angel",
+      "date": "2023-11-16"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
